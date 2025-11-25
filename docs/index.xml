@@ -1,0 +1,824 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Crew Call Docs – Documentation</title><link>/docs/</link><description>Recent content in Documentation on Crew Call Docs</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Creating Jobs</title><link>/docs/jobs/creating-jobs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/jobs/creating-jobs/</guid><description>
+&lt;h2&gt;How to Add a Job&lt;span class="hx:absolute hx:-mt-20" id="how-to-add-a-job"&gt;&lt;/span&gt;
+&lt;a href="#how-to-add-a-job" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class="hextra-steps hx:ml-4 hx:mb-12 hx:ltr:border-l hx:rtl:border-r hx:border-gray-200 hx:ltr:pl-6 hx:rtl:pr-6 hx:dark:border-neutral-800 [counter-reset:step]"&gt;
+&lt;h3&gt;Go to the Job List&lt;span class="hx:absolute hx:-mt-20" id="go-to-the-job-list"&gt;&lt;/span&gt;
+&lt;a href="#go-to-the-job-list" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Tap the &lt;strong&gt;Jobs Tab&lt;/strong&gt; at the bottom. This will take you to the &lt;strong&gt;Job List&lt;/strong&gt; for the Current Crew Member.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/adding-jobs-01.webp"
+alt="Go to the Job List" width="250"&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Tap the &amp;lsquo;Add Job&amp;rsquo; Button&lt;span class="hx:absolute hx:-mt-20" id="tap-the-add-job-button"&gt;&lt;/span&gt;
+&lt;a href="#tap-the-add-job-button" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Tap the &lt;strong&gt;&amp;rsquo;+&amp;rsquo; Button&lt;/strong&gt; in the top right. This will show the &lt;strong&gt;Add New Job Screen&lt;/strong&gt;. This is where you set the Job Name, Production Company, Role, Department, Rate and Job Settings.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/adding-jobs-02.webp"
+alt="Tap the &amp;#39;Add Job&amp;#39; Button" width="250"&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Enter Job Name and Production Company&lt;span class="hx:absolute hx:-mt-20" id="enter-job-name-and-production-company"&gt;&lt;/span&gt;
+&lt;a href="#enter-job-name-and-production-company" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;You must enter a &lt;strong&gt;Job Name&lt;/strong&gt;. Select a &lt;strong&gt;Production Company&lt;/strong&gt; from the list. Tap the &lt;strong&gt;&amp;rsquo;+&amp;rsquo; Button&lt;/strong&gt; in the toolbar to Add a New Production Company.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/adding-jobs-03.webp"
+alt="Enter Job Name and Production Company" width="250"&gt;
+&lt;/figure&gt;
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2"&gt;&lt;svg height=1.2em class="hx:inline-block hx:align-middle" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;&lt;/div&gt;
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;strong&gt;Production Companies&lt;/strong&gt; are referred to as &lt;strong&gt;Clients&lt;/strong&gt; in the Invoice Section of Crew Call.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Modify Role, Department or Rate If Required&lt;span class="hx:absolute hx:-mt-20" id="modify-role-department-or-rate-if-required"&gt;&lt;/span&gt;
+&lt;a href="#modify-role-department-or-rate-if-required" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;These will be pre-filled based on the defaults in your &lt;strong&gt;Crew Profile&lt;/strong&gt;. The most common value to modify is your rate as it&amp;rsquo;s likely you negotiate this on a job to job basis.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/adding-jobs-04.webp"
+alt="Modify Role, Department or Rate If Required" width="250"&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Add Job&lt;span class="hx:absolute hx:-mt-20" id="add-job"&gt;&lt;/span&gt;
+&lt;a href="#add-job" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Tap the &lt;strong&gt;Add Button&lt;/strong&gt; in the bottom right. This will create a &lt;strong&gt;New Job&lt;/strong&gt; and add it to the &lt;strong&gt;Job List&lt;/strong&gt; for the Current Crew Member.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/adding-jobs-05.webp"
+alt="Add Job" width="250"&gt;
+&lt;/figure&gt;
+&lt;/div&gt;</description></item><item><title>Creating Work Days</title><link>/docs/work-days/creating-work-days/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/work-days/creating-work-days/</guid><description>
+&lt;p&gt;There a two ways to create &lt;strong&gt;Work Days&lt;/strong&gt; in Crew Call, &lt;strong&gt;Single&lt;/strong&gt; and &lt;strong&gt;Multiple&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Single Work Days&lt;/strong&gt;&lt;br&gt;
+This is a great approach when you are logging Work Days as you go. You open Crew Call when you&amp;rsquo;re on-set and create a Shoot Day.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Multiple Work Days&lt;/strong&gt;&lt;br&gt;
+Many crew prefer to log their Work Days in advance. This option is ideal when you want to setup an entire Job in one go or if you are creating Work Days one week/multiple weeks at a time.&lt;/p&gt;
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2"&gt;&lt;svg height=1.2em class="hx:inline-block hx:align-middle" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;&lt;/div&gt;
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;When using &lt;strong&gt;Calendar Sync&lt;/strong&gt;, Crew Call will create calendar events that correspond to your Work Days. This is a great way to have your work schedule populate your day-to-day calendar.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2&gt;Add a Single Work Day&lt;span class="hx:absolute hx:-mt-20" id="add-a-single-work-day"&gt;&lt;/span&gt;
+&lt;a href="#add-a-single-work-day" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class="hextra-steps hx:ml-4 hx:mb-12 hx:ltr:border-l hx:rtl:border-r hx:border-gray-200 hx:ltr:pl-6 hx:rtl:pr-6 hx:dark:border-neutral-800 [counter-reset:step]"&gt;
+&lt;h3&gt;Go to the Work Day List&lt;span class="hx:absolute hx:-mt-20" id="go-to-the-work-day-list"&gt;&lt;/span&gt;
+&lt;a href="#go-to-the-work-day-list" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Tap a &lt;strong&gt;Job&lt;/strong&gt; in the &lt;strong&gt;Job List&lt;/strong&gt;. This will load the &lt;strong&gt;Work Day List&lt;/strong&gt; for that specific job.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/adding-single-work-days-01.webp"
+alt="Go to the Work Day List" width="250"&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Tap the &amp;lsquo;Add Work Day&amp;rsquo; Button&lt;span class="hx:absolute hx:-mt-20" id="tap-the-add-work-day-button"&gt;&lt;/span&gt;
+&lt;a href="#tap-the-add-work-day-button" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Tap the &lt;strong&gt;&amp;rsquo;+&amp;rsquo; Button&lt;/strong&gt; in the top right. This will show the &lt;strong&gt;Add Work Day Screen&lt;/strong&gt;. Make sure that &lt;strong&gt;Single&lt;/strong&gt; is selected at the top, this is used to create a Single Work Day.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/adding-single-work-days-02.webp"
+alt="Tap the &amp;#39;Add Work Day&amp;#39; Button" width="250"&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Select the Date&lt;span class="hx:absolute hx:-mt-20" id="select-the-date"&gt;&lt;/span&gt;
+&lt;a href="#select-the-date" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Tap the &lt;strong&gt;Date&lt;/strong&gt; up the top. This will open the &lt;strong&gt;Date Selection Popup&lt;/strong&gt;. This is the date that will be used when creating the new Work Day.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/adding-single-work-days-03.webp"
+alt="Select the Date" width="250"&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Select &amp;lsquo;Half Day&amp;rsquo; If Required&lt;span class="hx:absolute hx:-mt-20" id="select-half-day-if-required"&gt;&lt;/span&gt;
+&lt;a href="#select-half-day-if-required" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;By default Work Days will be &lt;strong&gt;Full Days&lt;/strong&gt;. If you are logging pre-production you can create a &lt;strong&gt;Half Day&lt;/strong&gt;. This will enable your &lt;strong&gt;Half Day Rate&lt;/strong&gt; for the new Work Day.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/adding-single-work-days-04.webp"
+alt="Select &amp;#39;Half Day&amp;#39; If Required" width="250"&gt;
+&lt;/figure&gt;
+&lt;!--TODO--&gt;
+&lt;!--Link to Half Day Rate--&gt;
+&lt;h3&gt;Swipe to Change Presets&lt;span class="hx:absolute hx:-mt-20" id="swipe-to-change-presets"&gt;&lt;/span&gt;
+&lt;a href="#swipe-to-change-presets" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Swiping on Pre Days, Shoot Days or Post Days will change the &lt;strong&gt;Date Title&lt;/strong&gt; for the new Work Day. Choose from a number of commonly used &lt;strong&gt;Date Titles&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/adding-single-work-days-05.webp"
+alt="Swipe to Change Presets" width="250"&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Add a Work Day&lt;span class="hx:absolute hx:-mt-20" id="add-a-work-day"&gt;&lt;/span&gt;
+&lt;a href="#add-a-work-day" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Tap on the &lt;strong&gt;Date Title Preset&lt;/strong&gt; and a new &lt;strong&gt;Work Day&lt;/strong&gt; will be created. You will return to the &lt;strong&gt;Work Day List&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/adding-single-work-days-06.webp"
+alt="Add a Work Day" width="250"&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+&lt;h2&gt;Add Multiple Work Days&lt;span class="hx:absolute hx:-mt-20" id="add-multiple-work-days"&gt;&lt;/span&gt;
+&lt;a href="#add-multiple-work-days" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class="hextra-steps hx:ml-4 hx:mb-12 hx:ltr:border-l hx:rtl:border-r hx:border-gray-200 hx:ltr:pl-6 hx:rtl:pr-6 hx:dark:border-neutral-800 [counter-reset:step]"&gt;
+&lt;h3&gt;Go to the Work Day List&lt;span class="hx:absolute hx:-mt-20" id="go-to-the-work-day-list-1"&gt;&lt;/span&gt;
+&lt;a href="#go-to-the-work-day-list-1" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Tap a &lt;strong&gt;Job&lt;/strong&gt; in the &lt;strong&gt;Job List&lt;/strong&gt;. This will load the &lt;strong&gt;Work Day List&lt;/strong&gt; for that specific job.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/adding-single-work-days-01.webp"
+alt="Go to the Work Day List" width="250"&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Tap the &amp;lsquo;Add Work Day&amp;rsquo; Button&lt;span class="hx:absolute hx:-mt-20" id="tap-the-add-work-day-button-1"&gt;&lt;/span&gt;
+&lt;a href="#tap-the-add-work-day-button-1" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Tap the &lt;strong&gt;&amp;rsquo;+&amp;rsquo; Button&lt;/strong&gt; in the top right. This will show the &lt;strong&gt;Add Work Day Screen&lt;/strong&gt;. Make sure that &lt;strong&gt;Multiple&lt;/strong&gt; is selected at the top, this is used to create Multiple Work Days.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/adding-multiple-work-days-01.webp"
+alt="Tap the &amp;#39;Add Work Day&amp;#39; Button" width="250"&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Select the Date&lt;span class="hx:absolute hx:-mt-20" id="select-the-date-1"&gt;&lt;/span&gt;
+&lt;a href="#select-the-date-1" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Tap the &lt;strong&gt;Date&lt;/strong&gt; up the top. This will open the &lt;strong&gt;Date Selection Popup&lt;/strong&gt;. This is the start date that will be used when creating &lt;strong&gt;Multiple Work Days&lt;/strong&gt;. Each time a new Work Day is created the &lt;strong&gt;date will increment&lt;/strong&gt;, creating a sequence of new Work Days.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/adding-multiple-work-days-02.webp"
+alt="Select the Date" width="250"&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Skip Days&lt;span class="hx:absolute hx:-mt-20" id="skip-days"&gt;&lt;/span&gt;
+&lt;a href="#skip-days" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;As &lt;strong&gt;Work Days&lt;/strong&gt; are created in a sequence, sometimes you may wish to &lt;strong&gt;skip certain days&lt;/strong&gt;. For example, you might be creating a &lt;strong&gt;3 Week Job&lt;/strong&gt; that shoots &lt;strong&gt;Mon-Fri&lt;/strong&gt;, rather than creating three seperate weeks, you can create &lt;strong&gt;15 Work Days&lt;/strong&gt; at once and &lt;strong&gt;skip the weekends&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/adding-multiple-work-days-03.webp"
+alt="Skip Days" width="250"&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Select &amp;lsquo;Half Day&amp;rsquo; If Required&lt;span class="hx:absolute hx:-mt-20" id="select-half-day-if-required-1"&gt;&lt;/span&gt;
+&lt;a href="#select-half-day-if-required-1" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;By default Work Days will be &lt;strong&gt;Full Days&lt;/strong&gt;. If you are logging pre-production you can create a &lt;strong&gt;Half Day&lt;/strong&gt;. This will enable your &lt;strong&gt;Half Day Rate&lt;/strong&gt; for the new Work Day.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/adding-multiple-work-days-04.webp"
+alt="Select &amp;#39;Half Day&amp;#39; If Required" width="250"&gt;
+&lt;/figure&gt;
+&lt;!--TODO--&gt;
+&lt;!--Link to Half Day Rate--&gt;
+&lt;h3&gt;Tap to Change Presets&lt;span class="hx:absolute hx:-mt-20" id="tap-to-change-presets"&gt;&lt;/span&gt;
+&lt;a href="#tap-to-change-presets" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Tapping on Pre Days, Shoot Days or Post Days will change the &lt;strong&gt;Date Title&lt;/strong&gt; for the new Work Day. Choose from a number of commonly used &lt;strong&gt;Date Titles&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/adding-multiple-work-days-05.webp"
+alt="Tap to Change Presets" width="250"&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Add Multiple Work Days&lt;span class="hx:absolute hx:-mt-20" id="add-multiple-work-days-1"&gt;&lt;/span&gt;
+&lt;a href="#add-multiple-work-days-1" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Tap on the &lt;strong&gt;Add Button&lt;/strong&gt; and a sequence of new &lt;strong&gt;Work Days&lt;/strong&gt; will be created. You will return to the &lt;strong&gt;Work Day List&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/adding-multiple-work-days-06.webp"
+alt="Add Multiple Work Days" width="250"&gt;
+&lt;/figure&gt;
+&lt;/div&gt;</description></item><item><title>Getting Started</title><link>/docs/getting-started/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/getting-started/</guid><description>
+&lt;h2&gt;Onboarding&lt;span class="hx:absolute hx:-mt-20" id="onboarding"&gt;&lt;/span&gt;
+&lt;a href="#onboarding" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;When you open Crew Call for the first time you will be guided through our &lt;strong&gt;onboarding&lt;/strong&gt; process. This is an &lt;strong&gt;important step&lt;/strong&gt; to help you start logging your work hours accurately.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/getting-started-01.webp"
+alt="Crew Call Onboarding"&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Defaults&lt;span class="hx:absolute hx:-mt-20" id="defaults"&gt;&lt;/span&gt;
+&lt;a href="#defaults" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Crew Call uses &lt;strong&gt;defaults&lt;/strong&gt; to make your life easier. The onboarding process will setup your defaults, these will be used whenever you &lt;strong&gt;&lt;a href="/docs/jobs/creating-jobs/"&gt;create a new job&lt;/a&gt;&lt;/strong&gt; going forward. Don&amp;rsquo;t worry if you get it wrong, these can be changed at any time. The two most important defaults are:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Overtime Calculation&lt;/strong&gt;&lt;br&gt;
+This is used to &lt;strong&gt;breakdown&lt;/strong&gt; your work day into different &lt;strong&gt;penalty rates&lt;/strong&gt; such as 1.0x, 1.5x, 2.0x. It also determines your &lt;strong&gt;Daily Base Rate&lt;/strong&gt;, if you charge for a 10 Hour Day, the &lt;strong&gt;Base Rate&lt;/strong&gt; should be set as 10 Hours.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rate&lt;/strong&gt;&lt;br&gt;
+This is the &lt;strong&gt;Daily Rate&lt;/strong&gt; that you charge for a job. Your &lt;strong&gt;Hourly Rate&lt;/strong&gt; and &lt;strong&gt;Overtime Rates&lt;/strong&gt; are automatically calculated from this value.&lt;/p&gt;
+&lt;!--You can learn more about these here:--&gt;
+&lt;!--TODO--&gt;
+&lt;!--Add Links--&gt;
+&lt;!--&lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 3;"&gt;
+&lt;a
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="docs"
+&gt;&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50"&gt;&lt;svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Overtime Calculations&lt;/span&gt;&lt;/a&gt;
+&lt;a
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="docs"
+&gt;&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50"&gt;&lt;svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Rates&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+--&gt;
+&lt;h2&gt;Start Logging Jobs&lt;span class="hx:absolute hx:-mt-20" id="start-logging-jobs"&gt;&lt;/span&gt;
+&lt;a href="#start-logging-jobs" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Once you have your &lt;strong&gt;Default Overtime Calculation&lt;/strong&gt; and &lt;strong&gt;Rate&lt;/strong&gt; setup, it&amp;rsquo;s time to start logging &lt;strong&gt;Jobs&lt;/strong&gt; and &lt;strong&gt;Work Days&lt;/strong&gt;.&lt;/p&gt;</description></item><item><title>Editing Jobs</title><link>/docs/jobs/editing-jobs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/jobs/editing-jobs/</guid><description>
+&lt;h2&gt;How to Edit a Job&lt;span class="hx:absolute hx:-mt-20" id="how-to-edit-a-job"&gt;&lt;/span&gt;
+&lt;a href="#how-to-edit-a-job" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class="hextra-steps hx:ml-4 hx:mb-12 hx:ltr:border-l hx:rtl:border-r hx:border-gray-200 hx:ltr:pl-6 hx:rtl:pr-6 hx:dark:border-neutral-800 [counter-reset:step]"&gt;
+&lt;h3&gt;Go to the Job List&lt;span class="hx:absolute hx:-mt-20" id="go-to-the-job-list"&gt;&lt;/span&gt;
+&lt;a href="#go-to-the-job-list" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Tap the &lt;strong&gt;Jobs Tab&lt;/strong&gt; at the bottom. This will take you to the &lt;strong&gt;Job List&lt;/strong&gt; for the Current Crew Member.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/adding-jobs-05.webp"
+alt="Go to the Job List" width="250"&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Select &amp;lsquo;Edit Job&amp;rsquo;&lt;span class="hx:absolute hx:-mt-20" id="select-edit-job"&gt;&lt;/span&gt;
+&lt;a href="#select-edit-job" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Tap and Hold&lt;/strong&gt; on a Job. Select &lt;strong&gt;Edit Job&lt;/strong&gt; from the menu.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/editing-jobs-01.webp"
+alt="Select &amp;#39;Edit Job&amp;#39;" width="250"&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Job Info&lt;span class="hx:absolute hx:-mt-20" id="job-info"&gt;&lt;/span&gt;
+&lt;a href="#job-info" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;You can change the Job Name, Production Company, Role, Department or Rate. You can also mark jobs as Sent, Lock or Paid.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/editing-jobs-02.webp"
+alt="Job Info" width="250"&gt;
+&lt;/figure&gt;
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2"&gt;&lt;svg height=1.2em class="hx:inline-block hx:align-middle" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;&lt;/div&gt;
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;When you change your &lt;strong&gt;Rate&lt;/strong&gt; for a Job and select &lt;strong&gt;Save&lt;/strong&gt;, every Work Day for that Job will be re-calculated using the new rate.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Job Settings&lt;span class="hx:absolute hx:-mt-20" id="job-settings"&gt;&lt;/span&gt;
+&lt;a href="#job-settings" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Overtime Calculations, Overtime Rules, Night Loadings, Meal Penalties and Turnarounds can be modified on a job to job basis.&lt;/p&gt;
+&lt;p&gt;If you are working on a different scale of production or in a different country, you may want to change these so that your income is calculated correctly for that specific job.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/editing-jobs-03.webp"
+alt="Job Settings" width="250"&gt;
+&lt;/figure&gt;
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2"&gt;&lt;svg height=1.2em class="hx:inline-block hx:align-middle" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;&lt;/div&gt;
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;When you change any of the &lt;strong&gt;Calculations&lt;/strong&gt; and select &lt;strong&gt;Save&lt;/strong&gt;, every Work Day for that Job will be re-calculated using the new &lt;strong&gt;Job Settings&lt;/strong&gt;.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>Logging Work Days</title><link>/docs/work-days/logging-work-days/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/work-days/logging-work-days/</guid><description>
+&lt;p&gt;When logging a Work Day there are three main sections, Labour, Equipment and Notes.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/logging-work-days-01.webp"
+alt="Logging Work Days Screens"&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Labour&lt;span class="hx:absolute hx:-mt-20" id="labour"&gt;&lt;/span&gt;
+&lt;a href="#labour" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Labour is where you log your Call Time, Meal Breaks, Wrap Time and Travel. It displays a visual breakdown of your time worked and your income.&lt;/p&gt;
+&lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 1;"&gt;
+&lt;a
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="/docs/work-days/labour"
+&gt;&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50"&gt;Labour&lt;/span&gt;&lt;div class="hextra-badge hextra-card-tag"&gt;
+&lt;div class="hx:inline-flex hx:gap-1 hx:items-center hx:rounded-full hx:px-2.5 hx:leading-6 hx:text-[.65rem] hx:border hx:text-gray-600 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:dark:text-neutral-200 hx:border-gray-200 hx:dark:border-neutral-700"&gt;→&lt;/div&gt;
+&lt;/div&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;h2&gt;Equipment&lt;span class="hx:absolute hx:-mt-20" id="equipment"&gt;&lt;/span&gt;
+&lt;a href="#equipment" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Equipment is where you log any gear used on a particular shoot day. Total equipment earnings are displayed at the bottom. You can also apply discounts where required.&lt;/p&gt;
+&lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 1;"&gt;
+&lt;a
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="/docs/work-days/equipment"
+&gt;&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50"&gt;Equipment&lt;/span&gt;&lt;div class="hextra-badge hextra-card-tag"&gt;
+&lt;div class="hx:inline-flex hx:gap-1 hx:items-center hx:rounded-full hx:px-2.5 hx:leading-6 hx:text-[.65rem] hx:border hx:text-gray-600 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:dark:text-neutral-200 hx:border-gray-200 hx:dark:border-neutral-700"&gt;→&lt;/div&gt;
+&lt;/div&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;h2&gt;Notes&lt;span class="hx:absolute hx:-mt-20" id="notes"&gt;&lt;/span&gt;
+&lt;a href="#notes" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Notes is where you&amp;rsquo;ll find everything else. You can write notes for a given shoot day. You can also log &lt;strong&gt;Locations&lt;/strong&gt; and &lt;strong&gt;Chargeable Mileage&lt;/strong&gt;. The bottom section let&amp;rsquo;s you record Camera Wrap and your Actual Drive Away Time.&lt;/p&gt;
+&lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 1;"&gt;
+&lt;a
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="/docs/work-days/notes"
+&gt;&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50"&gt;Notes&lt;/span&gt;&lt;div class="hextra-badge hextra-card-tag"&gt;
+&lt;div class="hx:inline-flex hx:gap-1 hx:items-center hx:rounded-full hx:px-2.5 hx:leading-6 hx:text-[.65rem] hx:border hx:text-gray-600 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:dark:text-neutral-200 hx:border-gray-200 hx:dark:border-neutral-700"&gt;→&lt;/div&gt;
+&lt;/div&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;h2&gt;Editing the Date Title&lt;span class="hx:absolute hx:-mt-20" id="editing-the-date-title"&gt;&lt;/span&gt;
+&lt;a href="#editing-the-date-title" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;You can edit the &lt;strong&gt;Date Title&lt;/strong&gt; by tapping it at the top of the &lt;strong&gt;Work Day Screen&lt;/strong&gt;. By default, the presets you select when &lt;strong&gt;&lt;a href="/docs/work-days/creating-work-days/#swipe-to-change-presets"&gt;Creating a Work Day&lt;/a&gt;&lt;/strong&gt; will be used for the &lt;strong&gt;Date Title&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/logging-work-days-02.webp"
+alt="Editing the Date Title" width="250"&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Changing the Date&lt;span class="hx:absolute hx:-mt-20" id="changing-the-date"&gt;&lt;/span&gt;
+&lt;a href="#changing-the-date" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;You can edit the &lt;strong&gt;Date&lt;/strong&gt; by tapping it at the top of the &lt;strong&gt;Work Day Screen&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/logging-work-days-03.webp"
+alt="Changing the Date" width="250"&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Navigating Work Days&lt;span class="hx:absolute hx:-mt-20" id="navigating-work-days"&gt;&lt;/span&gt;
+&lt;a href="#navigating-work-days" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Use the &lt;strong&gt;left/right arrows&lt;/strong&gt; at the top of the &lt;strong&gt;Work Day Screen&lt;/strong&gt; to change Work Days.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/logging-work-days-04.webp"
+alt="Editing the Date Title" width="400"&gt;
+&lt;/figure&gt;</description></item><item><title>Labour</title><link>/docs/work-days/labour/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/work-days/labour/</guid><description>
+&lt;h2&gt;Logging Times&lt;span class="hx:absolute hx:-mt-20" id="logging-times"&gt;&lt;/span&gt;
+&lt;a href="#logging-times" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Log your AM Travel, Call Time, Meal Break, Wrap Time and PM Travel using the selector. You can tap on the icon or the text to change your selection. The &lt;strong&gt;Time Slider&lt;/strong&gt; will update depending on the value you have selected. Please note that &lt;strong&gt;Meal Breaks have two selections&lt;/strong&gt;, Meal Start and Meal Length.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/labour-01.webp"
+alt="Logging Times"&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Time Slider&lt;span class="hx:absolute hx:-mt-20" id="time-slider"&gt;&lt;/span&gt;
+&lt;a href="#time-slider" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Use the time slider to adjust your times.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/labour-02.webp"
+alt="Time Slider"&gt;
+&lt;/figure&gt;
+&lt;p&gt;You can &lt;strong&gt;slide it left/right&lt;/strong&gt; as you&amp;rsquo;d expect and the times will update. This is great when you need to quickly change the logged time.&lt;/p&gt;
+&lt;p&gt;You can also &lt;strong&gt;tap to the left/right&lt;/strong&gt; and it will &lt;strong&gt;increment by 6/15 Mins&lt;/strong&gt;. This is for when you need finer control.&lt;/p&gt;
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2"&gt;&lt;svg height=1.2em class="hx:inline-block hx:align-middle" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;&lt;/div&gt;
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;Change the &lt;strong&gt;Time Increment&lt;/strong&gt; via &lt;strong&gt;More Tab → Settings → Time Increment&lt;/strong&gt;. You can select between &lt;strong&gt;6 Min&lt;/strong&gt; and &lt;strong&gt;15 Min&lt;/strong&gt; Increments.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2&gt;Night Shoots&lt;span class="hx:absolute hx:-mt-20" id="night-shoots"&gt;&lt;/span&gt;
+&lt;a href="#night-shoots" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The best way to think about the &lt;strong&gt;Time Slider&lt;/strong&gt; is that it represents &lt;strong&gt;24 Hours of the Day&lt;/strong&gt;. If you slide it to the right it’s later in the day, if you slide it to the left it’s earlier in the day.&lt;/p&gt;
+&lt;p&gt;To log a Night Shoot or Wrap Time after midnight, select &lt;strong&gt;Wrap Time&lt;/strong&gt; and slide the &lt;strong&gt;Time Slider&lt;/strong&gt; to the left to select 3:30am or whenever you finish. Crew Call knows that you&amp;rsquo;re logging a &lt;strong&gt;Night Shoot&lt;/strong&gt; or a &lt;strong&gt;Day/Night&lt;/strong&gt; and will process it as such. This assumes that your &lt;strong&gt;Call Time&lt;/strong&gt; is already set to a time after 3:30am, for example a 4:00pm Call Time.&lt;/p&gt;
+&lt;p&gt;Once you’ve logged your times, double check your &lt;strong&gt;Meal Break&lt;/strong&gt; as it may have been altered when you slid your &lt;strong&gt;Wrap Time&lt;/strong&gt; to the start of the day.&lt;/p&gt;
+&lt;p&gt;Below is an example of a logged &lt;strong&gt;Night Shoot&lt;/strong&gt;:&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/labour-03.webp"
+alt="Night Shoots" width="250"&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Second Meal Break&lt;span class="hx:absolute hx:-mt-20" id="second-meal-break"&gt;&lt;/span&gt;
+&lt;a href="#second-meal-break" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;You can toggle between &lt;strong&gt;1st Meal&lt;/strong&gt; and &lt;strong&gt;2nd Meal&lt;/strong&gt; when you &lt;strong&gt;double tap&lt;/strong&gt; on the &lt;strong&gt;Meal Break Icon&lt;/strong&gt; in the selector.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/labour-04.webp"
+alt="Second Meal Break Disabled" width="400"&gt;
+&lt;/figure&gt;
+&lt;p&gt;Tap the &lt;strong&gt;2nd Meal Button&lt;/strong&gt; to enable a 2nd Meal Break. This tells Crew Call that a &lt;strong&gt;2nd Meal is applicable&lt;/strong&gt; for the current Work Day. You can then log &lt;strong&gt;Meal Start&lt;/strong&gt; and &lt;strong&gt;Meal Length&lt;/strong&gt; for the 2nd Meal Break as you normally would.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/labour-05.webp"
+alt="Second Meal Break Enabled" width="400"&gt;
+&lt;/figure&gt;
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2"&gt;&lt;svg height=1.2em class="hx:inline-block hx:align-middle" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;&lt;/div&gt;
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;The times you enter for &lt;strong&gt;1st Meal&lt;/strong&gt; and &lt;strong&gt;2nd Meal&lt;/strong&gt; are used to calculate &lt;strong&gt;Meal Penalties&lt;/strong&gt;.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2&gt;Time Breakdown&lt;span class="hx:absolute hx:-mt-20" id="time-breakdown"&gt;&lt;/span&gt;
+&lt;a href="#time-breakdown" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The top section shows a &lt;strong&gt;Work Day Timeline&lt;/strong&gt;, this is designed to give you a quick visual overview of the Work Day.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Teal&lt;/strong&gt; is used for &lt;strong&gt;Travel&lt;/strong&gt;.&lt;br&gt;
+&lt;strong&gt;Light Blue&lt;/strong&gt; is used for &lt;strong&gt;Time Worked&lt;/strong&gt;.&lt;br&gt;
+&lt;strong&gt;Dark Blue&lt;/strong&gt; is used for &lt;strong&gt;Meal Breaks&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/labour-06.webp"
+alt="Time Breakdown" width="400"&gt;
+&lt;/figure&gt;
+&lt;p&gt;The bottom section breaks down &lt;strong&gt;Hours Worked&lt;/strong&gt; based on your &lt;strong&gt;Overtime Calculation&lt;/strong&gt;. You can see what hours were &lt;strong&gt;Single Time&lt;/strong&gt; and how many hours you worked of &lt;strong&gt;1.5x&lt;/strong&gt; and &lt;strong&gt;2.0x&lt;/strong&gt;, etc.&lt;/p&gt;
+&lt;h2&gt;Income Breakdown&lt;span class="hx:absolute hx:-mt-20" id="income-breakdown"&gt;&lt;/span&gt;
+&lt;a href="#income-breakdown" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The left section is a &lt;strong&gt;Pie Chart&lt;/strong&gt; that gives you a visual overview of &lt;strong&gt;which penalties&lt;/strong&gt; made up your &lt;strong&gt;income&lt;/strong&gt; for the Work Day. The right section displays dollar values for each penalty.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/labour-07.webp"
+alt="Income Breakdown" width="400"&gt;
+&lt;/figure&gt;
+&lt;p&gt;The dollar value for &lt;strong&gt;LOAD&lt;/strong&gt; in the right section is used for all &lt;strong&gt;Loadings&lt;/strong&gt; that triggered additional income for this Work Day. This includes &lt;strong&gt;Night Loadings&lt;/strong&gt; and &lt;strong&gt;Meal Penalties&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;If you &lt;strong&gt;tap on a section&lt;/strong&gt; of the &lt;strong&gt;Pie Chart&lt;/strong&gt; it will &lt;strong&gt;highlight&lt;/strong&gt; the corresponding penalty and &lt;strong&gt;income earned&lt;/strong&gt; for that penalty.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/labour-17.webp"
+alt="Income Breakdown Highlighted" width="400"&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Work Day Popups&lt;span class="hx:absolute hx:-mt-20" id="work-day-popups"&gt;&lt;/span&gt;
+&lt;a href="#work-day-popups" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The very bottom section of the &lt;strong&gt;Labour Screen&lt;/strong&gt; is for &lt;strong&gt;Work Day Popups&lt;/strong&gt;. Each button represents a &lt;strong&gt;modificaton&lt;/strong&gt; to &lt;strong&gt;Work Day Income&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;When a button is &lt;strong&gt;highlighted&lt;/strong&gt; that means the corresponding modifier &lt;strong&gt;is active&lt;/strong&gt;. Tap any of these buttons to show a popup which provides more information.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/labour-08.webp"
+alt="Work Day Popups"&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Flat Rate&lt;span class="hx:absolute hx:-mt-20" id="flat-rate"&gt;&lt;/span&gt;
+&lt;a href="#flat-rate" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Flat Rate is &lt;strong&gt;disabled by default&lt;/strong&gt;, this means the Work Day will use the &lt;strong&gt;Overtime Calculation&lt;/strong&gt; for &lt;strong&gt;Labour Income&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/labour-09.webp"
+alt="Flat Rate Disabled" width="400"&gt;
+&lt;/figure&gt;
+&lt;p&gt;When &lt;strong&gt;enabled&lt;/strong&gt;, the Work Day will use the &lt;strong&gt;Flat Rate&lt;/strong&gt; for it&amp;rsquo;s &lt;strong&gt;income&lt;/strong&gt;. Any &lt;strong&gt;penalty rates&lt;/strong&gt; and &lt;strong&gt;overtime&lt;/strong&gt; that is normally calculated &lt;strong&gt;will be ignored&lt;/strong&gt;. This is often used for Travel Days or when production has negotiated a fixed rate with you for a job. Flat Rate can be changed on a day-to-day basis by entering a different value into the Text Field.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/labour-10.webp"
+alt="Flat Rate Enabled" width="400"&gt;
+&lt;/figure&gt;
+&lt;p&gt;Best practice is to enter the &lt;strong&gt;Flat Rate&lt;/strong&gt; that you will use most often and tap &lt;strong&gt;Set As Default Flat Rate&lt;/strong&gt;. Once a default has been set, any &lt;strong&gt;new Work Day&lt;/strong&gt; that you create will have this &lt;strong&gt;Flat Rate assigned&lt;/strong&gt;. All you need to do is enable it.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/labour-11.webp"
+alt="Default Flat Rate"&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;Flat Rate&lt;/strong&gt; can be &lt;strong&gt;changed&lt;/strong&gt; on a &lt;strong&gt;day-to-day&lt;/strong&gt; basis by entering a different value into the Text Field. &lt;strong&gt;Tap the Flat Rate Button&lt;/strong&gt; to reset the current value to your &lt;strong&gt;Default Flat Rate&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/labour-12.webp"
+alt="Reset Flat Rate"&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Half Day Rate&lt;span class="hx:absolute hx:-mt-20" id="half-day-rate"&gt;&lt;/span&gt;
+&lt;a href="#half-day-rate" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Half Day Rate&lt;/strong&gt; is used to charge a &lt;strong&gt;percentage of your Labour Rate&lt;/strong&gt; for the current Work Day. Your Labour Rate is set when &lt;strong&gt;&lt;a href="/docs/jobs/editing-jobs/#job-info"&gt;Editing a Job&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/labour-13.webp"
+alt="Half Day Rate" width="400"&gt;
+&lt;/figure&gt;
+&lt;p&gt;Setting a &lt;strong&gt;Default Half Day Rate&lt;/strong&gt; and &lt;strong&gt;resetting the current value&lt;/strong&gt; works the same as &lt;strong&gt;Flat Rate&lt;/strong&gt;. Please read the &lt;strong&gt;&lt;a href="/docs/work-days/labour/#flat-rate"&gt;Flat Rate Section&lt;/a&gt;&lt;/strong&gt; above for reference.&lt;/p&gt;
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2"&gt;&lt;svg height=1.2em class="hx:inline-block hx:align-middle" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;&lt;/div&gt;
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;If your &lt;strong&gt;Half Day Rate&lt;/strong&gt; does not calculate as you would expect, please check &lt;strong&gt;More Tab → Settings → Half Day Rounding&lt;/strong&gt;. This setting determines if the percentage rounds up or down.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!--TODO--&gt;
+&lt;!--Link to Settings--&gt;
+&lt;h2&gt;Daily Bump&lt;span class="hx:absolute hx:-mt-20" id="daily-bump"&gt;&lt;/span&gt;
+&lt;a href="#daily-bump" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Daily Bump&lt;/strong&gt; is used when a crew member needs to &lt;strong&gt;step up within their department&lt;/strong&gt; for a single day. For example, a 2nd AC may work as a 1st AC on a 3rd Camera Day, thus their &lt;strong&gt;Day Rate&lt;/strong&gt; needs to change just for this shoot day to match their new role and responsibility.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/labour-15.webp"
+alt="Daily Bump" width="400"&gt;
+&lt;/figure&gt;
+&lt;p&gt;Enable &lt;strong&gt;Daily Bump&lt;/strong&gt; and set a different &lt;strong&gt;Role&lt;/strong&gt; and &lt;strong&gt;Rate&lt;/strong&gt;. The &lt;strong&gt;Overtime Calculation&lt;/strong&gt; for the &lt;strong&gt;Job&lt;/strong&gt; will still be used, it will just be calculated using the &lt;strong&gt;Daily Bump Rate&lt;/strong&gt; instead.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/labour-14.webp"
+alt="Daily Bump" width="400"&gt;
+&lt;/figure&gt;
+&lt;p&gt;Setting a &lt;strong&gt;Default Daily Bump&lt;/strong&gt; and &lt;strong&gt;resetting the current Daily Bump&lt;/strong&gt; works the same as &lt;strong&gt;Flat Rate&lt;/strong&gt;. Please read the &lt;strong&gt;&lt;a href="/docs/work-days/labour/#flat-rate"&gt;Flat Rate Section&lt;/a&gt;&lt;/strong&gt; above for reference.&lt;/p&gt;
+&lt;h2&gt;Minimum Work Day&lt;span class="hx:absolute hx:-mt-20" id="minimum-work-day"&gt;&lt;/span&gt;
+&lt;a href="#minimum-work-day" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;If you work a day that is &lt;strong&gt;shorter&lt;/strong&gt; than the &lt;strong&gt;Minimum Work Day&lt;/strong&gt;, you charge the for the &lt;strong&gt;minimum amount of hours worked&lt;/strong&gt; rather than for the &lt;strong&gt;actual hours worked&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;In the example below, the crew member worked &lt;strong&gt;5.5 Hours&lt;/strong&gt; but they were booked on an &lt;strong&gt;8 Hour Rate&lt;/strong&gt;. The &lt;strong&gt;Minimum Work Day&lt;/strong&gt; is 8 Hours so they charge for 8 Hours even though they only worked 5.5 Hours.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/labour-16.webp"
+alt="Minimum Work Day" width="400"&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;Minimum Work Day&lt;/strong&gt; is set via &lt;strong&gt;&lt;a href="/docs/jobs/editing-jobs/#job-settings"&gt;Job Settings&lt;/a&gt;&lt;/strong&gt; when Editing a Job. It can be &lt;strong&gt;disabled&lt;/strong&gt; if you wish to &lt;strong&gt;only charge for hours worked&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2&gt;Overtime Rules&lt;span class="hx:absolute hx:-mt-20" id="overtime-rules"&gt;&lt;/span&gt;
+&lt;a href="#overtime-rules" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Overtime Rules&lt;/strong&gt; are used when &lt;strong&gt;different penalties are applicable&lt;/strong&gt; based on the day of the week. This can be &lt;strong&gt;6th Day&lt;/strong&gt; and &lt;strong&gt;7th Day Penalties&lt;/strong&gt; or things like &lt;strong&gt;2.0x on Sundays&lt;/strong&gt;. They will &lt;strong&gt;trigger automatically&lt;/strong&gt; if the Work Day meets the criteria for a given rule.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;Overtime Rules Popup&lt;/strong&gt; gives you a breakdown of how penalties have changed. In the example below, it shows that 1.0x is changed to 2.0x for 8 Hours which results in $750.00 more income earned.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/labour-18.webp"
+alt="Overtime Rules Popup" width="400"&gt;
+&lt;/figure&gt;
+&lt;p&gt;The &lt;strong&gt;Income Breakdown&lt;/strong&gt; will display &lt;strong&gt;RULE&lt;/strong&gt; for the income earned based on &lt;strong&gt;Overtime Rules&lt;/strong&gt;. It will also display a &lt;strong&gt;green dot&lt;/strong&gt; next to penalties that have been &lt;strong&gt;modified&lt;/strong&gt; by an &lt;strong&gt;Overtime Rule&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/labour-19.webp"
+alt="Overtime Rules Income Breakdown" width="400"&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;Overtime Rules&lt;/strong&gt; are set via &lt;strong&gt;&lt;a href="/docs/jobs/editing-jobs/#job-settings"&gt;Job Settings&lt;/a&gt;&lt;/strong&gt; when Editing a Job.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tap the button&lt;/strong&gt; in the &lt;strong&gt;top left&lt;/strong&gt; of the popup if you want to &lt;strong&gt;Ignore a Penalty&lt;/strong&gt;. Income earned from the Overtime Rule will be ignored until you &lt;strong&gt;Stop Ignoring the Penalty&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/labour-21.webp"
+alt="Ignore Overtime Rules"&gt;
+&lt;/figure&gt;
+&lt;!--TODO--&gt;
+&lt;!--Link to Overtime Rules--&gt;
+&lt;h2&gt;Night Loadings&lt;span class="hx:absolute hx:-mt-20" id="night-loadings"&gt;&lt;/span&gt;
+&lt;a href="#night-loadings" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Night Loadings&lt;/strong&gt; are triggered when your &lt;strong&gt;Start Time&lt;/strong&gt; or &lt;strong&gt;Finish Time&lt;/strong&gt; overlaps with the times set for a &lt;strong&gt;Night Loading Calculation&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Income earned&lt;/strong&gt; from a &lt;strong&gt;Night Loading&lt;/strong&gt; considers your Current Penalty (1.0x, 1.5x, 2.0x) and will add &lt;strong&gt;additional income&lt;/strong&gt; to match what is specified in the &lt;strong&gt;Night Loading Calculation&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/labour-20.webp"
+alt="Night Loadings" width="400"&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;Night Loadings&lt;/strong&gt; are set via &lt;strong&gt;&lt;a href="/docs/jobs/editing-jobs/#job-settings"&gt;Job Settings&lt;/a&gt;&lt;/strong&gt; when Editing a Job.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tap the button&lt;/strong&gt; in the &lt;strong&gt;top left&lt;/strong&gt; of the popup if you want to &lt;strong&gt;Ignore Night Loadings&lt;/strong&gt;. Income earned from Night Loadings will be ignored until you &lt;strong&gt;Stop Ignoring Night Loading&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/labour-22.webp"
+alt="Ignore Night Loadings"&gt;
+&lt;/figure&gt;
+&lt;!--TODO--&gt;
+&lt;!--Link to Night Loadings--&gt;
+&lt;h2&gt;Meal Penalties&lt;span class="hx:absolute hx:-mt-20" id="meal-penalties"&gt;&lt;/span&gt;
+&lt;a href="#meal-penalties" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The &lt;strong&gt;Meal Start&lt;/strong&gt; and &lt;strong&gt;Meal Length&lt;/strong&gt; of your &lt;strong&gt;1st Meal&lt;/strong&gt; and &lt;strong&gt;2nd Meal&lt;/strong&gt; are checked against the &lt;strong&gt;Meal Penalty Calculation&lt;/strong&gt;. If a &lt;strong&gt;Delayed Meal Break&lt;/strong&gt; or &lt;strong&gt;Short Meal Break&lt;/strong&gt; is detcted, the corresponding penalty will be automatically applied.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/labour-23.webp"
+alt="Meal Penalties" width="400"&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;Meal Penalties&lt;/strong&gt; are set via &lt;strong&gt;&lt;a href="/docs/jobs/editing-jobs/#job-settings"&gt;Job Settings&lt;/a&gt;&lt;/strong&gt; when Editing a Job.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tap the button&lt;/strong&gt; in the &lt;strong&gt;middle&lt;/strong&gt; of the popup if you want to &lt;strong&gt;Ignore Meal Penalties&lt;/strong&gt;. You can ignore 1st Meal and 2nd Meal seperately. Income earned from Meal Penalties will be ignored until you &lt;strong&gt;Stop Ignoring Meal Penalties&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/labour-24.webp"
+alt="Ignore Meal Penalties"&gt;
+&lt;/figure&gt;
+&lt;!--TODO--&gt;
+&lt;!--Link to Meal Penalties--&gt;
+&lt;h2&gt;Turnarounds&lt;span class="hx:absolute hx:-mt-20" id="turnarounds"&gt;&lt;/span&gt;
+&lt;a href="#turnarounds" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Crew Call will automatically check your &lt;strong&gt;Turnaround Times&lt;/strong&gt; to make sure you are getting an &lt;strong&gt;appropriate break&lt;/strong&gt; between Work Days. It will calculate the hours between your &lt;strong&gt;Finish Time&lt;/strong&gt; on one day and your &lt;strong&gt;Start Time&lt;/strong&gt; the next day.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/labour-25.webp"
+alt="Turnarounds" width="400"&gt;
+&lt;/figure&gt;
+&lt;p&gt;If your &lt;strong&gt;Turnaround Time&lt;/strong&gt; is &lt;strong&gt;too short&lt;/strong&gt; it will flag that you have &lt;strong&gt;Broken Turnaround&lt;/strong&gt;. The &lt;strong&gt;duration&lt;/strong&gt; of each &lt;strong&gt;Turnaround&lt;/strong&gt; is defined by the &lt;strong&gt;Turnaround Calculation&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Next Day Turnaround&lt;/strong&gt; is used &lt;strong&gt;day to day&lt;/strong&gt;.&lt;br&gt;
+&lt;strong&gt;One Day Turnaround&lt;/strong&gt; is used when shooting a &lt;strong&gt;6 Day Week&lt;/strong&gt;.&lt;br&gt;
+&lt;strong&gt;Two Day Turnaround&lt;/strong&gt; is used when shooting a &lt;strong&gt;5 Day Week&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Crew Call knows which &lt;strong&gt;Turnaround&lt;/strong&gt; to apply based on &lt;strong&gt;Work Days&lt;/strong&gt; that have been logged in the current, previous and next &lt;strong&gt;Work Weeks&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/labour-26.webp"
+alt="Broken Turnaround" width="400"&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;Tap the control&lt;/strong&gt; in the &lt;strong&gt;top right&lt;/strong&gt; of the &lt;strong&gt;Turnaround Popup&lt;/strong&gt; to toggle between &lt;strong&gt;Broken Turnarounds&lt;/strong&gt; and &lt;strong&gt;Future Turnarounds&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Future Turnarounds&lt;/strong&gt; will tell you your &lt;strong&gt;Next Day, One Day and Two Day Turnaround Times&lt;/strong&gt; for the Current Work Day. This allows you to easily check when you can start the next day if production ask you to start &lt;strong&gt;on turnaround&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/labour-27.webp"
+alt="Future Turnarounds" width="400"&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;Turnarounds&lt;/strong&gt; are set via &lt;strong&gt;&lt;a href="/docs/jobs/editing-jobs/#job-settings"&gt;Job Settings&lt;/a&gt;&lt;/strong&gt; when Editing a Job.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tap the button&lt;/strong&gt; at the &lt;strong&gt;bottom&lt;/strong&gt; of the popup if you want to &lt;strong&gt;Ignore Turnarounds&lt;/strong&gt;. Currently there is &lt;strong&gt;no income earned&lt;/strong&gt; from &lt;strong&gt;Broken Turnarounds&lt;/strong&gt; in Crew Call, the ignore option is only used to disable the highlight indicating that you have &lt;strong&gt;Broken Tunraround&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/labour-28.webp"
+alt="Ignore Turnarounds"&gt;
+&lt;/figure&gt;
+&lt;!--TODO--&gt;
+&lt;!--Link to Turnarounds--&gt;</description></item><item><title>Equipment</title><link>/docs/work-days/equipment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/work-days/equipment/</guid><description>
+&lt;h2&gt;Logging Equipment&lt;span class="hx:absolute hx:-mt-20" id="logging-equipment"&gt;&lt;/span&gt;
+&lt;a href="#logging-equipment" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Tap the &lt;strong&gt;Equipment List&lt;/strong&gt; to log gear that was used on the current Work Day.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Equipment Items&lt;/strong&gt; are organised by category and can be added and edited via the &lt;strong&gt;Home Tab → Crew Profile → Equipment List&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/equipment-01.webp"
+alt="Equipment List" width="250"&gt;
+&lt;/figure&gt;
+&lt;!--TODO--&gt;
+&lt;!--Link to Equipment Items--&gt;
+&lt;p&gt;Equipment Items can have varying quantities. Sometimes you own a single unit and sometimes you have multiple units of the same piece of gear.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Single Equipment Items&lt;/strong&gt;&lt;br&gt;
+These are toggled on/off with a &lt;strong&gt;tap&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/equipment-02.webp"
+alt="Single Equipment Item"&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;Multiple Equipment Items&lt;/strong&gt;&lt;br&gt;
+These are modified with the &lt;strong&gt;stepper&lt;/strong&gt;. &lt;strong&gt;Tap&lt;/strong&gt; the &lt;strong&gt;stepper&lt;/strong&gt; to &lt;strong&gt;increment&lt;/strong&gt; or &lt;strong&gt;reduce&lt;/strong&gt; the number of units that have been used.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/equipment-03.webp"
+alt="Multiple Equipment Items"&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Day Rate or Weekly Rate&lt;span class="hx:absolute hx:-mt-20" id="day-rate-or-weekly-rate"&gt;&lt;/span&gt;
+&lt;a href="#day-rate-or-weekly-rate" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Each &lt;strong&gt;Equipment Item&lt;/strong&gt; displays a &lt;strong&gt;D&lt;/strong&gt; or a &lt;strong&gt;W&lt;/strong&gt; next to it.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;D&lt;/strong&gt; indicates that the &lt;strong&gt;Day Rate&lt;/strong&gt; is being used.&lt;br&gt;
+&lt;strong&gt;W&lt;/strong&gt; indicates that the &lt;strong&gt;Weekly Rate&lt;/strong&gt; is being used.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/equipment-04.webp"
+alt="Day Rate or Weekly Rate"&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;Tap and Hold&lt;/strong&gt; on an &lt;strong&gt;Equipment Item&lt;/strong&gt; to swap between using a &lt;strong&gt;Day Rate&lt;/strong&gt; and a &lt;strong&gt;Weekly Rate&lt;/strong&gt;. When using a &lt;strong&gt;Weekly Rate&lt;/strong&gt;, the &lt;strong&gt;Work Week&lt;/strong&gt; will be calculated using based on &lt;strong&gt;More Tab → Settings → First Day of Week&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/equipment-05.webp"
+alt="Swap Between Daily/Weekly Rate"&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Discounts&lt;span class="hx:absolute hx:-mt-20" id="discounts"&gt;&lt;/span&gt;
+&lt;a href="#discounts" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The &lt;strong&gt;bottom section&lt;/strong&gt; displays the &lt;strong&gt;Job Discount&lt;/strong&gt;. This as a global discount that will be applied to every &lt;strong&gt;Work Day&lt;/strong&gt; created for this &lt;strong&gt;Job&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/equipment-06.webp"
+alt="No Discount Applied" width="400"&gt;
+&lt;/figure&gt;
+&lt;p&gt;Tap the &lt;strong&gt;+/- Stepper&lt;/strong&gt; to increase or reduce the &lt;strong&gt;discount percent&lt;/strong&gt;. The &lt;strong&gt;amount discounted&lt;/strong&gt; and your &lt;strong&gt;earnings after discount&lt;/strong&gt; will be automatically calculated and displayed.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/equipment-07.webp"
+alt="Discount Applied" width="400"&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Discount Categories&lt;span class="hx:absolute hx:-mt-20" id="discount-categories"&gt;&lt;/span&gt;
+&lt;a href="#discount-categories" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;By default the &lt;strong&gt;Job Discount&lt;/strong&gt; will apply to all &lt;strong&gt;Equipment Categories&lt;/strong&gt;. This can be changed so that the discount is only applied to &lt;strong&gt;Equipment Items&lt;/strong&gt; in certain categories.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/equipment-08.webp"
+alt="Discounted Categories" width="250"&gt;
+&lt;/figure&gt;
+&lt;p&gt;This is useful if you need to apply a discount to everything except for certain &lt;strong&gt;Equipment Items&lt;/strong&gt;. In the example above, all of the &lt;strong&gt;Data Management&lt;/strong&gt; and &lt;strong&gt;Misc Equipment&lt;/strong&gt; is discounted but we do not apply any discount to &lt;strong&gt;Vehicles&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/equipment-09.webp"
+alt="Discounted Applied to 2/3 Categories" width="400"&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Equipment Override&lt;span class="hx:absolute hx:-mt-20" id="equipment-override"&gt;&lt;/span&gt;
+&lt;a href="#equipment-override" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Swipe Left&lt;/strong&gt; on any &lt;strong&gt;Equipment Item&lt;/strong&gt; and select &lt;strong&gt;Edit&lt;/strong&gt; to apply an &lt;strong&gt;Equipment Override&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/equipment-10.webp"
+alt="Edit Equipment" width="400"&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;Equipment Override&lt;/strong&gt; allows you to change the &lt;strong&gt;Day Rate&lt;/strong&gt; or &lt;strong&gt;Weekly Rate&lt;/strong&gt; for a specific &lt;strong&gt;Equipment Item&lt;/strong&gt; without impacting its price on other &lt;strong&gt;Jobs&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Use the &lt;strong&gt;text field&lt;/strong&gt; to change the price of an &lt;strong&gt;Equipment Item&lt;/strong&gt;. If you need to &lt;strong&gt;Calculate by Percentage&lt;/strong&gt; you can use the &lt;strong&gt;+/- Stepper&lt;/strong&gt; that is positioned above the &lt;strong&gt;keyboard&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/equipment-11.webp"
+alt="Equipment Override" width="250"&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;Equipment Overrides&lt;/strong&gt; can be applied to the &lt;strong&gt;Entire Job&lt;/strong&gt; or just the &lt;strong&gt;Current Work Day&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Use &lt;strong&gt;Entire Job&lt;/strong&gt; if the discount or surcharge you wish to apply needs to be used on &lt;strong&gt;every Work Day&lt;/strong&gt; logged for this Job.&lt;/p&gt;
+&lt;p&gt;Use &lt;strong&gt;Current Work Day&lt;/strong&gt; if the discount or surcharge will change from day to day. This is useful for logging expenses which is &lt;strong&gt;&lt;a href="/docs/work-days/equipment/#expenses"&gt;detailed below&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/equipment-12.webp"
+alt="Applies To"&gt;
+&lt;/figure&gt;
+&lt;p&gt;There will be a &lt;strong&gt;pink dot&lt;/strong&gt; next to the &lt;strong&gt;Equipment Item&lt;/strong&gt; when an &lt;strong&gt;Equipment Override&lt;/strong&gt; is applied.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/equipment-13.webp"
+alt="Pink Dot Indicates Equipment Override"&gt;
+&lt;/figure&gt;
+&lt;p&gt;To remove an &lt;strong&gt;Equipment Override&lt;/strong&gt;, &lt;strong&gt;Swipe Left&lt;/strong&gt; and select &lt;strong&gt;Edit&lt;/strong&gt;, then tap &lt;strong&gt;Delete Override&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/equipment-14.webp"
+alt="Delete Equipment Override" width="400"&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Expenses&lt;span class="hx:absolute hx:-mt-20" id="expenses"&gt;&lt;/span&gt;
+&lt;a href="#expenses" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;There is no offical support for expenses within Crew Call but you can achieve similar functionality using &lt;strong&gt;Equipment Items&lt;/strong&gt; and &lt;strong&gt;Equipment Overrides&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Many crew will setup an &lt;strong&gt;Equipment Category&lt;/strong&gt; called &lt;strong&gt;Expenses&lt;/strong&gt;. They will then add various &lt;strong&gt;Equipment Items&lt;/strong&gt; that match common expenses, these have a &lt;strong&gt;Day Rate&lt;/strong&gt; of &lt;strong&gt;$0.00&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/equipment-15.webp"
+alt="Expenses" width="400"&gt;
+&lt;/figure&gt;
+&lt;p&gt;When you log &lt;strong&gt;Per Diems&lt;/strong&gt; you will need to apply an &lt;strong&gt;Equipment Override&lt;/strong&gt; and set it&amp;rsquo;s &lt;strong&gt;Day Rate&lt;/strong&gt; to the amount of &lt;strong&gt;Per Diems&lt;/strong&gt; you are entitled to for that day.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s important to make sure you select &lt;strong&gt;Current Work Day&lt;/strong&gt; when you create the &lt;strong&gt;Equipment Override&lt;/strong&gt; as the amount you charge for &lt;strong&gt;Per Diems&lt;/strong&gt; will &lt;strong&gt;differ from day-to-day&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/equipment-16.webp"
+alt="Per Diems Equipment Override" width="400"&gt;
+&lt;/figure&gt;
+&lt;p&gt;Once the &lt;strong&gt;Equipment Override&lt;/strong&gt; has been created you will be charging the correct amount for the expense. This process is repeated for every day that you need to be reimbursed for an expense.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/equipment-17.webp"
+alt="Expenses With Override" width="400"&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Daily/Weekly Breakdown&lt;span class="hx:absolute hx:-mt-20" id="dailyweekly-breakdown"&gt;&lt;/span&gt;
+&lt;a href="#dailyweekly-breakdown" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Switch between a &lt;strong&gt;Daily Breakdown&lt;/strong&gt; and &lt;strong&gt;Weekly Breakdown&lt;/strong&gt; using the &lt;strong&gt;toggle&lt;/strong&gt; in the &lt;strong&gt;top right&lt;/strong&gt;. This is useful to keep track of how much &lt;strong&gt;Equipment Income&lt;/strong&gt; you are earning each day or week.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/equipment-18.webp"
+alt="Daily/Weekly Breakdown"&gt;
+&lt;/figure&gt;</description></item><item><title>Notes</title><link>/docs/work-days/notes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/work-days/notes/</guid><description>
+&lt;h2&gt;Notes&lt;span class="hx:absolute hx:-mt-20" id="notes"&gt;&lt;/span&gt;
+&lt;a href="#notes" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Use the &lt;strong&gt;Notes Section&lt;/strong&gt; to keep track of anything that may come up. &lt;strong&gt;Notes&lt;/strong&gt; are tied to a specific &lt;strong&gt;Work Day&lt;/strong&gt; and can be easily checked later on.&lt;/p&gt;
+&lt;p&gt;When creating &lt;strong&gt;PDF Reports&lt;/strong&gt; or &lt;strong&gt;Timesheets&lt;/strong&gt; you can choose if these &lt;strong&gt;Work Day Notes&lt;/strong&gt; are included or not. It&amp;rsquo;s up to you if you make these notes production friendly or if they contain things you want to keep to yourself.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/notes-01.webp"
+alt="Notes" width="250"&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Logging Locations&lt;span class="hx:absolute hx:-mt-20" id="logging-locations"&gt;&lt;/span&gt;
+&lt;a href="#logging-locations" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Add &lt;strong&gt;Locations&lt;/strong&gt; to a &lt;strong&gt;Work Day&lt;/strong&gt; to keep track of where you are shooting. When you have location moves, &lt;strong&gt;&lt;a href="/docs/work-days/locations/#navigate-to-locations"&gt;Crew Call can help you navigate&lt;/a&gt;&lt;/strong&gt; by opening the &lt;strong&gt;Next Location&lt;/strong&gt; in your &lt;strong&gt;Preferred Map Application&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Logged Locations&lt;/strong&gt; will automatically calculate &lt;strong&gt;Driving Estimates&lt;/strong&gt; which can be exported as a &lt;strong&gt;Driving Logbook&lt;/strong&gt; for tax purposes.&lt;/p&gt;
+&lt;p&gt;When using &lt;strong&gt;Calendar Sync&lt;/strong&gt;, the first &lt;strong&gt;Logged Location&lt;/strong&gt; will be added to the corresponding &lt;strong&gt;Calendar Event&lt;/strong&gt; in your iOS or Google Calendar.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/notes-02.webp"
+alt="Logging Locations" width="400"&gt;
+&lt;/figure&gt;
+&lt;p&gt;Learn more about &lt;strong&gt;Logging Locations&lt;/strong&gt;:&lt;/p&gt;
+&lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 1;"&gt;
+&lt;a
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="/docs/work-days/locations"
+&gt;&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50"&gt;Locations&lt;/span&gt;&lt;div class="hextra-badge hextra-card-tag"&gt;
+&lt;div class="hx:inline-flex hx:gap-1 hx:items-center hx:rounded-full hx:px-2.5 hx:leading-6 hx:text-[.65rem] hx:border hx:text-gray-600 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:dark:text-neutral-200 hx:border-gray-200 hx:dark:border-neutral-700"&gt;→&lt;/div&gt;
+&lt;/div&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;!--TODO--&gt;
+&lt;!--Add Links to Locations, Driving Logbook, etc.--&gt;
+&lt;h2&gt;Logging Chargeable Mileage&lt;span class="hx:absolute hx:-mt-20" id="logging-chargeable-mileage"&gt;&lt;/span&gt;
+&lt;a href="#logging-chargeable-mileage" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Milage&lt;/strong&gt; is used for &lt;strong&gt;Paid KMs or Miles&lt;/strong&gt; that you charge to production. &lt;strong&gt;Mileage&lt;/strong&gt; can be logged manually or you can use the &lt;strong&gt;Auto Calculate Mileage&lt;/strong&gt; feature.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/notes-08.webp"
+alt="Logging Chargeable Mileage" width="400"&gt;
+&lt;/figure&gt;
+&lt;!--TODO--&gt;
+&lt;!--Add Links to Auto Calculate Mileage--&gt;
+&lt;p&gt;Learn more about &lt;strong&gt;Chargeable Mileage&lt;/strong&gt;:&lt;/p&gt;
+&lt;div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 1;"&gt;
+&lt;a
+class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900"href="/docs/work-days/mileage"
+&gt;&lt;span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50"&gt;Mileage&lt;/span&gt;&lt;div class="hextra-badge hextra-card-tag"&gt;
+&lt;div class="hx:inline-flex hx:gap-1 hx:items-center hx:rounded-full hx:px-2.5 hx:leading-6 hx:text-[.65rem] hx:border hx:text-gray-600 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:dark:text-neutral-200 hx:border-gray-200 hx:dark:border-neutral-700"&gt;→&lt;/div&gt;
+&lt;/div&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;h2&gt;Camera Wrap&lt;span class="hx:absolute hx:-mt-20" id="camera-wrap"&gt;&lt;/span&gt;
+&lt;a href="#camera-wrap" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;This can be used when you want to record the exact time of &lt;strong&gt;Camera Wrap&lt;/strong&gt;. This can be helpful infomation to have on hand when discussing things with production in the future.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tap&lt;/strong&gt; the &lt;strong&gt;Camera Wrap Button&lt;/strong&gt; to log the &lt;strong&gt;current time&lt;/strong&gt; as &lt;strong&gt;Camera Wrap&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/notes-03.webp"
+alt="Camera Wrap"&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;Tap and Hold&lt;/strong&gt; the &lt;strong&gt;Camera Wrap Button&lt;/strong&gt; and select &lt;strong&gt;Set Manually&lt;/strong&gt; to dial in the exact time.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/notes-04.webp"
+alt="Set Camera Wrap Manually" width="400"&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;Tap and Hold&lt;/strong&gt; the &lt;strong&gt;Camera Wrap Button&lt;/strong&gt; and select &lt;strong&gt;Delete Camera Wrap&lt;/strong&gt; to remove it.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/notes-05.webp"
+alt="Delete Camera Wrap" width="400"&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Drive Away&lt;span class="hx:absolute hx:-mt-20" id="drive-away"&gt;&lt;/span&gt;
+&lt;a href="#drive-away" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Often the &lt;strong&gt;Drive Away Time&lt;/strong&gt; and the &lt;strong&gt;Wrap Time&lt;/strong&gt; will differ slightly as crew typically round up their &lt;strong&gt;Wrap Time&lt;/strong&gt; to the nearest 6/15 Minutes. &lt;strong&gt;Drive Away&lt;/strong&gt; allows you to record your actual drive away time for future reference.&lt;/p&gt;
+&lt;p&gt;When you log &lt;strong&gt;Camera Wrap&lt;/strong&gt; and &lt;strong&gt;Drive Away&lt;/strong&gt; you &lt;strong&gt;Bump Out&lt;/strong&gt; time is calculated automatically. This can useful to know how long it took you to wrap out of a location.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/notes-06.webp"
+alt="Drive Away" width="400"&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;Drive Away&lt;/strong&gt; works the exact same way as &lt;strong&gt;Camera Wrap&lt;/strong&gt;, please refer to the &lt;strong&gt;&lt;a href="/docs/work-days/notes/#camera-wrap"&gt;information above&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;When you tap &lt;strong&gt;Drive Away&lt;/strong&gt;, you will be presented with some options if you have set a &lt;strong&gt;&lt;a href="/docs/work-days/locations/#default-home-location"&gt;Home Location&lt;/a&gt;&lt;/strong&gt;. &lt;strong&gt;Lock Work Day &amp;amp; Navigate Home&lt;/strong&gt; is used most often as it will sign off the &lt;strong&gt;Work Day&lt;/strong&gt; and open your &lt;strong&gt;Preferred Map Application&lt;/strong&gt; and start navigating you home.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/notes-07.webp"
+alt="Lock Work Day and Navigate Home" width="400"&gt;
+&lt;/figure&gt;</description></item><item><title>Locations</title><link>/docs/work-days/locations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/work-days/locations/</guid><description>
+&lt;h2&gt;Summary and Settings&lt;span class="hx:absolute hx:-mt-20" id="summary-and-settings"&gt;&lt;/span&gt;
+&lt;a href="#summary-and-settings" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Location Summary&lt;/strong&gt; is used to &lt;strong&gt;Add Locations&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Location Settings&lt;/strong&gt; is used to set &lt;strong&gt;Home Locations&lt;/strong&gt; and a &lt;strong&gt;Base Location&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Driving Estimates&lt;/strong&gt; calculate time and mileage between your &lt;strong&gt;Home Location&lt;/strong&gt; and any locations that you log. Below we&amp;rsquo;ll show you how to get setup.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/locations-01.webp"
+alt="Summary and Settings"&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Default Home Location&lt;span class="hx:absolute hx:-mt-20" id="default-home-location"&gt;&lt;/span&gt;
+&lt;a href="#default-home-location" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;When using &lt;strong&gt;Locations&lt;/strong&gt; for the first time, it&amp;rsquo;s best to set your &lt;strong&gt;Default Home Location&lt;/strong&gt;.&lt;/p&gt;
+&lt;div class="hextra-steps hx:ml-4 hx:mb-12 hx:ltr:border-l hx:rtl:border-r hx:border-gray-200 hx:ltr:pl-6 hx:rtl:pr-6 hx:dark:border-neutral-800 [counter-reset:step]"&gt;
+&lt;h3&gt;Tap &amp;lsquo;Home Location • AM&amp;rsquo;&lt;span class="hx:absolute hx:-mt-20" id="tap-home-location--am"&gt;&lt;/span&gt;
+&lt;a href="#tap-home-location--am" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;This will open the &lt;strong&gt;Add Location Screen&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/locations-02.webp"
+alt="Home Location AM"&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Type in Home Address&lt;span class="hx:absolute hx:-mt-20" id="type-in-home-address"&gt;&lt;/span&gt;
+&lt;a href="#type-in-home-address" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;This should be the location where you normally wake up and where you go home to in the evening. Crew Call will use this to calculate the distance between &lt;strong&gt;Home&lt;/strong&gt; and any &lt;strong&gt;Shooting Locations&lt;/strong&gt; that you log.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/locations-03.webp"
+alt="Type in Home Address" width="250"&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Select the Home Address&lt;span class="hx:absolute hx:-mt-20" id="select-the-home-address"&gt;&lt;/span&gt;
+&lt;a href="#select-the-home-address" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Select your &lt;strong&gt;Home Location&lt;/strong&gt; from the list of addresses and &lt;strong&gt;tap&lt;/strong&gt; the &lt;strong&gt;Done Button&lt;/strong&gt; at the bottom.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/locations-04.webp"
+alt="Select the Home Address" width="250"&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Set as Default&lt;span class="hx:absolute hx:-mt-20" id="set-as-default"&gt;&lt;/span&gt;
+&lt;a href="#set-as-default" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Tap and Hold&lt;/strong&gt; on &lt;strong&gt;Home Location • AM&lt;/strong&gt; and select &lt;strong&gt;Set As Default&lt;/strong&gt;. Any new &lt;strong&gt;Work Days&lt;/strong&gt; that you create from this point forward will now have the &lt;strong&gt;Home Location&lt;/strong&gt; set automatically.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/locations-05.webp"
+alt="Set as Default Home Location" width="250"&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+&lt;h2&gt;Default Base Location&lt;span class="hx:absolute hx:-mt-20" id="default-base-location"&gt;&lt;/span&gt;
+&lt;a href="#default-base-location" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;When using &lt;strong&gt;Locations&lt;/strong&gt; for the first time, it&amp;rsquo;s best to set your &lt;strong&gt;Default Base Location&lt;/strong&gt;.&lt;/p&gt;
+&lt;div class="hextra-steps hx:ml-4 hx:mb-12 hx:ltr:border-l hx:rtl:border-r hx:border-gray-200 hx:ltr:pl-6 hx:rtl:pr-6 hx:dark:border-neutral-800 [counter-reset:step]"&gt;
+&lt;h3&gt;Tap &amp;lsquo;Base Location&amp;rsquo;&lt;span class="hx:absolute hx:-mt-20" id="tap-base-location"&gt;&lt;/span&gt;
+&lt;a href="#tap-base-location" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;This will open the &lt;strong&gt;Add Location Screen&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/locations-06.webp"
+alt="Base Location"&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Type in City Address&lt;span class="hx:absolute hx:-mt-20" id="type-in-city-address"&gt;&lt;/span&gt;
+&lt;a href="#type-in-city-address" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;This should be the location of the &lt;strong&gt;main city&lt;/strong&gt; where you normally work. Crew Call will use this to calculate if any &lt;strong&gt;Shooting Locations&lt;/strong&gt; fall outside of the zone.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/locations-07.webp"
+alt="Type in City Address" width="250"&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Select the City Address&lt;span class="hx:absolute hx:-mt-20" id="select-the-city-address"&gt;&lt;/span&gt;
+&lt;a href="#select-the-city-address" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Select your &lt;strong&gt;Base Location&lt;/strong&gt; from the list of addresses and &lt;strong&gt;tap&lt;/strong&gt; the &lt;strong&gt;Done Button&lt;/strong&gt; at the bottom. It doesn&amp;rsquo;t need to have a full street address, just the city is fine.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/locations-08.webp"
+alt="Select the City Address" width="250"&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Set as Default&lt;span class="hx:absolute hx:-mt-20" id="set-as-default-1"&gt;&lt;/span&gt;
+&lt;a href="#set-as-default-1" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Tap and Hold&lt;/strong&gt; on &lt;strong&gt;Base Location&lt;/strong&gt; and select &lt;strong&gt;Set As Default&lt;/strong&gt;. Any new &lt;strong&gt;Work Days&lt;/strong&gt; that you create from this point forward will now have the &lt;strong&gt;Base Location&lt;/strong&gt; set automatically.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/locations-09.webp"
+alt="Set as Default Base Location" width="400"&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+&lt;h2&gt;Home Locations&lt;span class="hx:absolute hx:-mt-20" id="home-locations"&gt;&lt;/span&gt;
+&lt;a href="#home-locations" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;By default, &lt;strong&gt;Home Location • PM&lt;/strong&gt; will be identical to &lt;strong&gt;Home Location • AM&lt;/strong&gt;. The only time you need to change these is when you&amp;rsquo;re doing an away job.&lt;/p&gt;
+&lt;p&gt;Change the &lt;strong&gt;Home Location&lt;/strong&gt; to be your accomodation when working away and Crew Call will calculate your &lt;strong&gt;Driving Estimates&lt;/strong&gt; accordingly.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/locations-10.webp"
+alt="Set as Default Home Location" width="400"&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Base Location and Radius&lt;span class="hx:absolute hx:-mt-20" id="base-location-and-radius"&gt;&lt;/span&gt;
+&lt;a href="#base-location-and-radius" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The &lt;strong&gt;Base Location&lt;/strong&gt; is the main city where you work. Most places will charge mileage and travel time when you work a certain distance outside of the &lt;strong&gt;Base Location&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;In Melbourne, Australia we use a 20km Radius from Melbourne City. My &lt;strong&gt;Base Location&lt;/strong&gt; is set &lt;strong&gt;&lt;a href="/docs/work-days/locations/#default-base-location"&gt;as per above&lt;/a&gt;&lt;/strong&gt; and my &lt;strong&gt;Base Radius&lt;/strong&gt; is set to 20km. &lt;strong&gt;Base Radius&lt;/strong&gt; can be&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/locations-11.webp"
+alt="Base Location and Radius" width="250"&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;Base Radius&lt;/strong&gt; can be changed from day-to-day. &lt;strong&gt;Tap and Hold&lt;/strong&gt; and select &lt;strong&gt;Set As Default&lt;/strong&gt; if you are moving onto a new job that uses a different &lt;strong&gt;Base Radius&lt;/strong&gt;, any &lt;strong&gt;Work Days&lt;/strong&gt; you create after this will use this &lt;strong&gt;New Default&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/locations-12.webp"
+alt="Base Radius" width="400"&gt;
+&lt;/figure&gt;
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2"&gt;&lt;svg height=1.2em class="hx:inline-block hx:align-middle" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;&lt;/div&gt;
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;You can change between &lt;strong&gt;Kilometers&lt;/strong&gt; and &lt;strong&gt;Miles&lt;/strong&gt; via &lt;strong&gt;More Tab → Settings → Mileage Format&lt;/strong&gt;.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2&gt;Add Location&lt;span class="hx:absolute hx:-mt-20" id="add-location"&gt;&lt;/span&gt;
+&lt;a href="#add-location" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;From the &lt;strong&gt;Location Summary Screen&lt;/strong&gt;, tap &lt;strong&gt;Add Location&lt;/strong&gt;. This will open the &lt;strong&gt;Add Location Screen&lt;/strong&gt;. There are three different ways to add a location:&lt;/p&gt;
+&lt;h3&gt;Current Location&lt;span class="hx:absolute hx:-mt-20" id="current-location"&gt;&lt;/span&gt;
+&lt;a href="#current-location" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;This will use your current location based on your device&amp;rsquo;s GPS. This requires &lt;strong&gt;Location Permissions&lt;/strong&gt; from iOS in order to work. Whenever the &lt;strong&gt;Add Location Screen&lt;/strong&gt; shows this will be used as a default. This is handy if you are adding a location while you&amp;rsquo;re on-set.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/locations-13.webp"
+alt="Current Location" width="400"&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Search Locations&lt;span class="hx:absolute hx:-mt-20" id="search-locations"&gt;&lt;/span&gt;
+&lt;a href="#search-locations" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Type&lt;/strong&gt; in &lt;strong&gt;an address&lt;/strong&gt; and relevant locations will display in the list. &lt;strong&gt;Tap the location&lt;/strong&gt; in the list to &lt;strong&gt;select it&lt;/strong&gt;. This is the easiest way to add locations in advance.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/locations-14.webp"
+alt="Search Locations" width="400"&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Visited Before&lt;span class="hx:absolute hx:-mt-20" id="visited-before"&gt;&lt;/span&gt;
+&lt;a href="#visited-before" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Select from a list of locations that you have &lt;strong&gt;visted before&lt;/strong&gt;. If you find yourself working in the same location week after week, this is the fastest way to log it.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/locations-15.webp"
+alt="Visited Before" width="400"&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Location List&lt;span class="hx:absolute hx:-mt-20" id="location-list"&gt;&lt;/span&gt;
+&lt;a href="#location-list" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Once you have added all of the locations for a &lt;strong&gt;Work Day&lt;/strong&gt; you will see them as a list in the &lt;strong&gt;Location Summary&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/locations-17.webp"
+alt="Logged Locations" width="400"&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Reorder Locations&lt;span class="hx:absolute hx:-mt-20" id="reorder-locations"&gt;&lt;/span&gt;
+&lt;a href="#reorder-locations" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Tap&lt;/strong&gt; the &lt;strong&gt;Reorder Button&lt;/strong&gt; to the right of &lt;strong&gt;Driving Estimates&lt;/strong&gt; if you need to reorder locations. You may have entered them in the incorrect order or shooting plans may have changed.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/locations-18.webp"
+alt="Reorder Locations" width="400"&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Driving Estimate&lt;span class="hx:absolute hx:-mt-20" id="driving-estimate"&gt;&lt;/span&gt;
+&lt;a href="#driving-estimate" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Crew Call will calculate a &lt;strong&gt;Driving Estimate&lt;/strong&gt; for the locations you travelled to during the &lt;strong&gt;Work Day&lt;/strong&gt;. It will navigate from &lt;strong&gt;Home AM&lt;/strong&gt; → &lt;strong&gt;Location 01&lt;/strong&gt; → &lt;strong&gt;Other Logged Locations&lt;/strong&gt; → &lt;strong&gt;Home PM&lt;/strong&gt;. The driving route will be drawn on the map as you can see below.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Driving Estimates&lt;/strong&gt; will calculate a &lt;strong&gt;Duration&lt;/strong&gt; and &lt;strong&gt;Distance&lt;/strong&gt;. &lt;strong&gt;Home AM&lt;/strong&gt; → &lt;strong&gt;Location 01&lt;/strong&gt; will take your &lt;strong&gt;Call Time&lt;/strong&gt; into consideration as this impacts traffic. &lt;strong&gt;Last Location&lt;/strong&gt; → &lt;strong&gt;Home PM&lt;/strong&gt; will take your &lt;strong&gt;Wrap Time&lt;/strong&gt; into consideration in the same way.&lt;/p&gt;
+&lt;p&gt;Estimates may vary depending on the route taken. If you have &lt;strong&gt;Estimates Use Tolls&lt;/strong&gt; enabled, &lt;strong&gt;Duration&lt;/strong&gt; and &lt;strong&gt;Distance&lt;/strong&gt; may be shorter as toll routes are typically faster and shorter.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/locations-16.webp"
+alt="Driving Estimate" width="250"&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Navigate to Locations&lt;span class="hx:absolute hx:-mt-20" id="navigate-to-locations"&gt;&lt;/span&gt;
+&lt;a href="#navigate-to-locations" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Tap and Hold&lt;/strong&gt; on a location in the &lt;strong&gt;Location Summary Screen&lt;/strong&gt; and select &lt;strong&gt;Navigate&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/locations-19.webp"
+alt="Navigate to Locations from Location Summary" width="400"&gt;
+&lt;/figure&gt;
+&lt;p&gt;The first time you use this feature you will be asked to choose a &lt;strong&gt;Preferred Map Application&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/locations-20.webp"
+alt="Preferred Map Application" width="400"&gt;
+&lt;/figure&gt;
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2"&gt;&lt;svg height=1.2em class="hx:inline-block hx:align-middle" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;&lt;/div&gt;
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;You can change &lt;strong&gt;Preferred Map Application&lt;/strong&gt; via &lt;strong&gt;More Tab → Settings → Preferred Map Application&lt;/strong&gt;.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;You can also &lt;strong&gt;navigate to locations&lt;/strong&gt; from the &lt;strong&gt;Work Day List&lt;/strong&gt;. &lt;strong&gt;Tap and Hold&lt;/strong&gt; on a &lt;strong&gt;Work Day&lt;/strong&gt; and select &lt;strong&gt;Navigate To&amp;hellip; → Location&lt;/strong&gt;. The &lt;strong&gt;Navigate To&amp;hellip;&lt;/strong&gt; option will only be visible is a &lt;strong&gt;Work Day&lt;/strong&gt; has &lt;strong&gt;logged locations&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/locations-21.webp"
+alt="Navigate to Locations from Work Day List" width="250"&gt;
+&lt;/figure&gt;</description></item><item><title>Mileage</title><link>/docs/work-days/mileage/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/work-days/mileage/</guid><description>
+&lt;h2&gt;Summary and Rate&lt;span class="hx:absolute hx:-mt-20" id="summary-and-rate"&gt;&lt;/span&gt;
+&lt;a href="#summary-and-rate" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Mileage Summary&lt;/strong&gt; is used to &lt;strong&gt;Add Mileage&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mileage Rate&lt;/strong&gt; is used to modify the dollar amount charged per &lt;strong&gt;KM&lt;/strong&gt; or &lt;strong&gt;Mile&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/mileage-01.webp"
+alt="Summary and Rate"&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Add Mileage&lt;span class="hx:absolute hx:-mt-20" id="add-mileage"&gt;&lt;/span&gt;
+&lt;a href="#add-mileage" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class="hextra-steps hx:ml-4 hx:mb-12 hx:ltr:border-l hx:rtl:border-r hx:border-gray-200 hx:ltr:pl-6 hx:rtl:pr-6 hx:dark:border-neutral-800 [counter-reset:step]"&gt;
+&lt;h3&gt;Tap &amp;lsquo;Add Mileage&amp;rsquo;&lt;span class="hx:absolute hx:-mt-20" id="tap-add-mileage"&gt;&lt;/span&gt;
+&lt;a href="#tap-add-mileage" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Tap &lt;strong&gt;Add Mileage&lt;/strong&gt; in the &lt;strong&gt;Mileage List&lt;/strong&gt; and you&amp;rsquo;ll be presented with the &lt;strong&gt;Mileage Popup&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/mileage-02.webp"
+alt="Mileage Popup" width="250"&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Enter Your Locations&lt;span class="hx:absolute hx:-mt-20" id="enter-your-locations"&gt;&lt;/span&gt;
+&lt;a href="#enter-your-locations" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Enter your &lt;strong&gt;Start Location&lt;/strong&gt; and &lt;strong&gt;End Location&lt;/strong&gt; using the text fields.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/mileage-03.webp"
+alt="Enter Locations" width="400"&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Enter Chargeable Distance&lt;span class="hx:absolute hx:-mt-20" id="enter-chargeable-distance"&gt;&lt;/span&gt;
+&lt;a href="#enter-chargeable-distance" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Use the &lt;strong&gt;Mileage Slider&lt;/strong&gt; to enter your &lt;strong&gt;Chargeable Distance&lt;/strong&gt;. Slide to change values quickly. &lt;strong&gt;Tap&lt;/strong&gt; to the &lt;strong&gt;left/right&lt;/strong&gt; to move in &lt;strong&gt;smaller increments&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/mileage-04.webp"
+alt="Enter Chargeable Distance" width="400"&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Tap the &amp;lsquo;Add Button&amp;rsquo;&lt;span class="hx:absolute hx:-mt-20" id="tap-the-add-button"&gt;&lt;/span&gt;
+&lt;a href="#tap-the-add-button" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Tap the &lt;strong&gt;Add Button&lt;/strong&gt; and the &lt;strong&gt;Mileage&lt;/strong&gt; will be added to the &lt;strong&gt;Mileage List&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/mileage-05.webp"
+alt="Chargeable Mileage Added" width="400"&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+&lt;h2&gt;Mileage Distance Options&lt;span class="hx:absolute hx:-mt-20" id="mileage-distance-options"&gt;&lt;/span&gt;
+&lt;a href="#mileage-distance-options" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;When you are manually editing the &lt;strong&gt;Mileage Distance&lt;/strong&gt; you have some options to make entering the precise value easier.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Distance Increment&lt;/strong&gt;&lt;br&gt;
+Change between &lt;strong&gt;1km / 0.1km&lt;/strong&gt; increments. The &lt;strong&gt;Mileage Slider&lt;/strong&gt; will use the selected increment. When using &lt;strong&gt;Miles&lt;/strong&gt; the increment will be &lt;strong&gt;1mi / 0.1mi&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/mileage-06.webp"
+alt="Distance Increment" width="250"&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;Distance Range&lt;/strong&gt;&lt;br&gt;
+Change the range of the &lt;strong&gt;Mileage Slider&lt;/strong&gt;.&lt;br&gt;
+&lt;strong&gt;Small&lt;/strong&gt; is &lt;strong&gt;0km - 200km&lt;/strong&gt;.&lt;br&gt;
+&lt;strong&gt;Medium&lt;/strong&gt; is &lt;strong&gt;200km - 500km&lt;/strong&gt;.&lt;br&gt;
+&lt;strong&gt;Large&lt;/strong&gt; is &lt;strong&gt;500km - 1000km&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/mileage-07.webp"
+alt="Distance Range" width="250"&gt;
+&lt;/figure&gt;
+&lt;p&gt;When using &lt;strong&gt;Miles&lt;/strong&gt; the ranges will use &lt;strong&gt;Miles&lt;/strong&gt; instead of &lt;strong&gt;KMs&lt;/strong&gt;.&lt;/p&gt;
+&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
+&lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2"&gt;&lt;svg height=1.2em class="hx:inline-block hx:align-middle" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;&lt;/div&gt;
+&lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;You can change between &lt;strong&gt;Kilometers&lt;/strong&gt; and &lt;strong&gt;Miles&lt;/strong&gt; via &lt;strong&gt;More Tab → Settings → Mileage Format&lt;/strong&gt;.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2&gt;Edit Mileage&lt;span class="hx:absolute hx:-mt-20" id="edit-mileage"&gt;&lt;/span&gt;
+&lt;a href="#edit-mileage" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Tap &lt;strong&gt;Existing Mileage&lt;/strong&gt; in the &lt;strong&gt;Mileage List&lt;/strong&gt; to edit it. The process is the same as &lt;strong&gt;&lt;a href="/docs/work-days/mileage/#add-mileage"&gt;Adding Mileage&lt;/a&gt;&lt;/strong&gt;. Make sure you tap the &lt;strong&gt;Save Button&lt;/strong&gt; when you are finished making changes.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/mileage-08.webp"
+alt="Edit Mileage" width="400"&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Auto Calculate Mileage&lt;span class="hx:absolute hx:-mt-20" id="auto-calculate-mileage"&gt;&lt;/span&gt;
+&lt;a href="#auto-calculate-mileage" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;If you use the &lt;strong&gt;&lt;a href="/docs/work-days/locations/"&gt;Location Features&lt;/a&gt;&lt;/strong&gt; you will be able to take advantage of &lt;strong&gt;Auto Calculate Mileage&lt;/strong&gt;. This will check each &lt;strong&gt;Location&lt;/strong&gt; that you have logged and assess if it is outside of the &lt;strong&gt;&lt;a href="/docs/work-days/locations/#base-location-and-radius"&gt;Base Radius&lt;/a&gt;&lt;/strong&gt;. If it falls outside of the &lt;strong&gt;Base Radius&lt;/strong&gt; it will calculate the &lt;strong&gt;Chargeable Mileage&lt;/strong&gt; for that location.&lt;/p&gt;
+&lt;p&gt;All you need to do to use this feature is:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Add a &lt;strong&gt;&lt;a href="/docs/work-days/locations/#default-base-location"&gt;Base Location&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Log &lt;strong&gt;&lt;a href="/docs/work-days/locations/#add-location"&gt;Locations&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Tap &lt;strong&gt;Auto Calculate Mileage&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/mileage-09.webp"
+alt="Auto Calculate Mileage"&gt;
+&lt;/figure&gt;
+&lt;p&gt;It will take a moment to calculate mileage. An internet connection is required.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/mileage-10.webp"
+alt="Auto Calculate Mileage Loading"&gt;
+&lt;/figure&gt;
+&lt;p&gt;When finished you will have &lt;strong&gt;Chargeable Mileage&lt;/strong&gt; for all location moves that are outside of the &lt;strong&gt;Base Radius&lt;/strong&gt; for the &lt;strong&gt;Selected Work Day&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The distance is calculated by navigating from your &lt;strong&gt;Base Location&lt;/strong&gt; to the &lt;strong&gt;Logged Location&lt;/strong&gt;, the &lt;strong&gt;Base Radius&lt;/strong&gt; will be subtracted from this distance.&lt;/p&gt;
+&lt;p&gt;In the example below, the distance from &lt;strong&gt;Melbourne to Woodend is 72km&lt;/strong&gt; and our &lt;strong&gt;Base Radius is 20km&lt;/strong&gt;, thus the &lt;strong&gt;Chargeable Mileage is 52km (72km - 20km)&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/mileage-11.webp"
+alt="Results of Auto Calculate Mileage" width="400"&gt;
+&lt;/figure&gt;
+&lt;p&gt;If you exit the &lt;strong&gt;Base Radius&lt;/strong&gt; and travel to various locations &lt;strong&gt;outside of the radius&lt;/strong&gt;, Crew Call will calculate the distance from &lt;strong&gt;Location 01 → Location 02&lt;/strong&gt;. Each location is assessed independantly to determine if it is outside of the &lt;strong&gt;Base Radius&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3&gt;Away Jobs&lt;span class="hx:absolute hx:-mt-20" id="away-jobs"&gt;&lt;/span&gt;
+&lt;a href="#away-jobs" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;When you&amp;rsquo;re on an &lt;strong&gt;away job&lt;/strong&gt; it&amp;rsquo;s typical to charge mileage back to your accomodation. If you set your &lt;strong&gt;&lt;a href="/docs/work-days/locations/#home-locations"&gt;Home Locations&lt;/a&gt;&lt;/strong&gt;, Crew Call will know you&amp;rsquo;re on an away job and &lt;strong&gt;Chargeable Mileage&lt;/strong&gt; will be calculated automatically.&lt;/p&gt;
+&lt;p&gt;If the &lt;strong&gt;Home Locations&lt;/strong&gt; logged for a &lt;strong&gt;Work Day&lt;/strong&gt; differ from your &lt;strong&gt;&lt;a href="/docs/work-days/locations/#default-home-location"&gt;Default Home Location&lt;/a&gt;&lt;/strong&gt; the system will assume you&amp;rsquo;re doing an &lt;strong&gt;away job&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Home AM&lt;/strong&gt; and &lt;strong&gt;Home PM&lt;/strong&gt; are calculated independently so this functionality will work when you &lt;strong&gt;leave for an away job&lt;/strong&gt; and when you &lt;strong&gt;return home from an away job&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/mileage-13.webp"
+alt="Mileage for Away Jobs" width="400"&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Disclaimer&lt;span class="hx:absolute hx:-mt-20" id="disclaimer"&gt;&lt;/span&gt;
+&lt;a href="#disclaimer" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Just a quick reminder to always double check the &lt;strong&gt;Chargeable Mileage&lt;/strong&gt; calculated by Crew Call &lt;strong&gt;before you bill production&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/mileage-12.webp"
+alt="Disclaimer" width="400"&gt;
+&lt;/figure&gt;
+&lt;p&gt;Any mileage calculated using &lt;strong&gt;Auto Calculate Mileage&lt;/strong&gt; can be &lt;strong&gt;&lt;a href="/docs/work-days/mileage/#edit-mileage"&gt;edited&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2&gt;Mileage Rate&lt;span class="hx:absolute hx:-mt-20" id="mileage-rate"&gt;&lt;/span&gt;
+&lt;a href="#mileage-rate" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Tap the &lt;strong&gt;Dollar Button&lt;/strong&gt; in the &lt;strong&gt;top right&lt;/strong&gt; to show the &lt;strong&gt;Mileage Rate Screen&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;Mileage Rate&lt;/strong&gt; can be changed for each &lt;strong&gt;Work Day&lt;/strong&gt;, this is useful if you use &lt;strong&gt;different vehicles&lt;/strong&gt; throughout a job. You may use a &lt;strong&gt;van&lt;/strong&gt; one day and &lt;strong&gt;charge $1.50/km&lt;/strong&gt; and then use a &lt;strong&gt;truck&lt;/strong&gt; the next day and &lt;strong&gt;charge $2.50/km&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/mileage-14.webp"
+alt="Mileage Rate" width="400"&gt;
+&lt;/figure&gt;
+&lt;p&gt;Tap the &lt;strong&gt;Set Default Button&lt;/strong&gt; to set the &lt;strong&gt;Default Mileage Rate&lt;/strong&gt; for the current &lt;strong&gt;Crew Member&lt;/strong&gt;. New &lt;strong&gt;Work Days&lt;/strong&gt; that are created from this point forward will use this value as the &lt;strong&gt;Mileage Rate&lt;/strong&gt;. It&amp;rsquo;s best to set this up before creating too many &lt;strong&gt;Work Days&lt;/strong&gt; so the &lt;strong&gt;$/km&lt;/strong&gt; is always what you expect it to be.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/mileage-15.webp"
+alt="Default Mileage Rate"&gt;
+&lt;/figure&gt;</description></item><item><title>Lock Work Days</title><link>/docs/work-days/lock/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/work-days/lock/</guid><description>
+&lt;h2&gt;Lock Button&lt;span class="hx:absolute hx:-mt-20" id="lock-button"&gt;&lt;/span&gt;
+&lt;a href="#lock-button" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Tap the &lt;strong&gt;Lock Button&lt;/strong&gt; in the &lt;strong&gt;top right&lt;/strong&gt; corner to &lt;strong&gt;Lock/Unlock&lt;/strong&gt; a &lt;strong&gt;Work Day&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/lock-01.webp"
+alt="Lock Work Days"&gt;
+&lt;/figure&gt;
+&lt;p&gt;You can&amp;rsquo;t change Labour, Equipment, Notes, Locations or Mileage on a &lt;strong&gt;Locked Work Day&lt;/strong&gt;. Enable this at the end of each day to &lt;strong&gt;prevent accidental changes&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Often you&amp;rsquo;ll want to browse a &lt;strong&gt;Logged Work Day&lt;/strong&gt;, if it&amp;rsquo;s &lt;strong&gt;locked&lt;/strong&gt; you don&amp;rsquo;t need to worry about accidentally changing something important.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/lock-02.webp"
+alt="Work Day Locked" width="250"&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Lock Work Weeks&lt;span class="hx:absolute hx:-mt-20" id="lock-work-weeks"&gt;&lt;/span&gt;
+&lt;a href="#lock-work-weeks" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;If every &lt;strong&gt;Work Day&lt;/strong&gt; within a &lt;strong&gt;Work Week&lt;/strong&gt; is locked it will be displayed as &lt;strong&gt;Locked&lt;/strong&gt; in the &lt;strong&gt;Work Day List&lt;/strong&gt;. &lt;strong&gt;Work Days&lt;/strong&gt; that fall within a &lt;strong&gt;Locked Work Week&lt;/strong&gt; can not be deleted.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/lock-03.webp"
+alt="Work Week Locked" width="400"&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;Tap and Hold&lt;/strong&gt; on any &lt;strong&gt;Work Day&lt;/strong&gt; in the &lt;strong&gt;Work Day List&lt;/strong&gt; to &lt;strong&gt;Lock/Unlock&lt;/strong&gt; an entire &lt;strong&gt;Work Week&lt;/strong&gt; at once.
+This is a quick and easy way to sign off an entire week to ensure no accidental changes are made when browsing later.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/lock-04.webp"
+alt="Lock Work Week" width="400"&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Lock Jobs&lt;span class="hx:absolute hx:-mt-20" id="lock-jobs"&gt;&lt;/span&gt;
+&lt;a href="#lock-jobs" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Use the &lt;strong&gt;Lock Button&lt;/strong&gt; to &lt;strong&gt;Lock/Unlock&lt;/strong&gt; an &lt;strong&gt;Entire Job&lt;/strong&gt; from the &lt;strong&gt;&lt;a href="/docs/jobs/editing-jobs/#how-to-edit-a-job"&gt;Edit Job Screen&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/lock-05.webp"
+alt="Lock Job from Edit Jobs" width="400"&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;Jobs&lt;/strong&gt; can also be &lt;strong&gt;Locked/Unlocked&lt;/strong&gt; from the &lt;strong&gt;Job List&lt;/strong&gt;. &lt;strong&gt;Tap and Hold&lt;/strong&gt; and select &lt;strong&gt;Mark As → Locked&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class="image-frame"&gt;&lt;img src="/images/lock-06.webp"
+alt="Lock Job from Job List" width="400"&gt;
+&lt;/figure&gt;</description></item></channel></rss>
